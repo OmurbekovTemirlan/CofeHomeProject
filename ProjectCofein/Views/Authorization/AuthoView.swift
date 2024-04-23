@@ -176,5 +176,7 @@ class AuthoViewController: UIViewController {
 }
 
 extension AuthoViewController: AuthoViewProtocol {
-    
+    func setData(with item: String ){
+        
+    }
 }
